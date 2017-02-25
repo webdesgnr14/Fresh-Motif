@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-3.3.7",
+  "version": "3.3.7",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "main": "functions.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twbs/bootstrap.git"
+  },
+  "keywords": [
+    "css",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "author": "Twitter, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twbs/bootstrap/issues"
+  },
+  "homepage": "https://github.com/twbs/bootstrap#readme"
+}
