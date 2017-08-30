@@ -21,13 +21,19 @@ img{width:auto; max-width:100%!important; height:auto!important;}
 body.logged-in{padding-top:4.3em;}
 
 .btn{padding:10px; color:#FFF; background:#f1592a; box-shadow:2px 2px 0px rgba(0, 0, 0, 0.3); font-size:18px; font-weight:700; margin:10px 0; text-decoration:none; text-transform:uppercase; display:inline-block;}
+<<<<<<< HEAD
 .btn:hover{color:#FFF; background:#1A9083;}
+=======
+>>>>>>> d2e00294bec64fcf89f9cd326b47e4987b11ab03
 .big-btn{font-size:22px;}
 .page-center{max-width:1200px; padding:0 20px; margin:0 auto; box-sizing:border-box;}
 
 /* Drupal Overrides */
 #columns #main-content .panel-flexible .panels-flexible-region{width:100%; float:none;}
+<<<<<<< HEAD
 #columns #main-content .panel-flexible .panels-flexible-region .panels-flexible-region-inside{padding:0;}
+=======
+>>>>>>> d2e00294bec64fcf89f9cd326b47e4987b11ab03
 
 /* Page */
 #page{position:relative;}
