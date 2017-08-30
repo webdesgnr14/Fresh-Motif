@@ -1,19 +1,6 @@
-# Folder view configuration files
-.DS_Store
-Desktop.ini
+# Ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
 
-# Thumbnail cache files
-._*
-Thumbs.db
-
-# Files that might appear on external disks
-.Spotlight-V100
-.Trashes
-
-# Compiled Python files
-*.pyc
-
-# Application specific files
-venv
-node_modules
-.sass-cache
+# Ignore paths that contain user-generated content.
+sites/*/files
+sites/*/private
